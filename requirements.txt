@@ -6,6 +6,8 @@ uvicorn[standard]
 # PDF processing
 PyMuPDF
 
+python-multipart
+
 # Configuration and utilities
 python-dotenv
 
