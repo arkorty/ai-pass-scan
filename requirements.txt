@@ -1,0 +1,13 @@
+google-generativeai
+# FastAPI and web framework
+fastapi
+uvicorn[standard]
+
+# PDF processing
+PyMuPDF
+
+# Configuration and utilities
+python-dotenv
+
+pdf2image
+Pillow
